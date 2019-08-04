@@ -1,0 +1,26 @@
+PODS:
+  - Realm (3.14.0):
+    - Realm/Headers (= 3.14.0)
+  - Realm/Headers (3.14.0)
+  - RealmSwift (3.14.0):
+    - Realm (= 3.14.0)
+  - Swinject (2.6.0)
+
+DEPENDENCIES:
+  - RealmSwift (~> 3.14.0)
+  - Swinject (~> 2.6.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Realm
+    - RealmSwift
+    - Swinject
+
+SPEC CHECKSUMS:
+  Realm: 221b25919bb5a010a3c597d707f8df3492dcd93a
+  RealmSwift: 28f22dfa6a27b9a778cfb09471558b6afcf1022c
+  Swinject: 48a96cda93633cf2860697b4ce76ab5db9ebaca2
+
+PODFILE CHECKSUM: d02ba31353b5ea25a1d5ad050cb2427bd2434b9b
+
+COCOAPODS: 1.6.0
