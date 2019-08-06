@@ -50,8 +50,6 @@
 		B571AFDD22B55B67001BCE74 /* PatterDefaultRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B571AFDC22B55B67001BCE74 /* PatterDefaultRouter.swift */; };
 		B59176D722B2AD4000F8F230 /* VibrationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59176D622B2AD4000F8F230 /* VibrationService.swift */; };
 		B59176D922B2AD8000F8F230 /* VibrationDefaultService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59176D822B2AD8000F8F230 /* VibrationDefaultService.swift */; };
-		B59176DC22B2F68D00F8F230 /* CountService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59176DB22B2F68D00F8F230 /* CountService.swift */; };
-		B59176DE22B2F6F400F8F230 /* CountDefaultService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59176DD22B2F6F400F8F230 /* CountDefaultService.swift */; };
 		B59176E122B2FDFC00F8F230 /* FileService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59176E022B2FDFC00F8F230 /* FileService.swift */; };
 		B59176E422B3018C00F8F230 /* EntityOperationsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59176E322B3018C00F8F230 /* EntityOperationsService.swift */; };
 		B59176E722B3036F00F8F230 /* PatterListDefaultService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59176E622B3036F00F8F230 /* PatterListDefaultService.swift */; };
@@ -80,7 +78,6 @@
 		B5EE2C4622AB2337007A5C71 /* UIPlaceHolderTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = B5EE2C4522AB2337007A5C71 /* UIPlaceHolderTextView.m */; };
 		B5F24FA922AC76BB00F92B0E /* RealmPatterEntityService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F24FA822AC76BB00F92B0E /* RealmPatterEntityService.swift */; };
 		B5F52D5E2254FC1100F1BF63 /* PatterListInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F52D5D2254FC1100F1BF63 /* PatterListInteractor.swift */; };
-		B5F76E96227B99A000F6E24A /* InstructionDoneButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F76E95227B99A000F6E24A /* InstructionDoneButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -694,12 +691,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				B5DC229522627D5300929BD7 /* RecordsView.swift in Sources */,
-				B5F76E96227B99A000F6E24A /* InstructionDoneButton.swift in Sources */,
 				B5DC227E226103C300929BD7 /* PatterInjectBuilder.swift in Sources */,
 				B5321662226004BE00DADF80 /* PatterListPresenterToInteractorProtocol.swift in Sources */,
 				B59176D922B2AD8000F8F230 /* VibrationDefaultService.swift in Sources */,
 				B549F51C22AF19B0007D816B /* RealmPatter.swift in Sources */,
-				B59176DC22B2F68D00F8F230 /* CountService.swift in Sources */,
 				B5EE2C4622AB2337007A5C71 /* UIPlaceHolderTextView.m in Sources */,
 				B5DC227C2261038900929BD7 /* PatterBuilder.swift in Sources */,
 				B549F51122AEA314007D816B /* RecordCellViewModel.swift in Sources */,
@@ -716,7 +711,6 @@
 				B52C089422D4FDE9004BEB80 /* SetCollection.swift in Sources */,
 				B52C089822D4FE95004BEB80 /* FirstAppLaunchSetter.swift in Sources */,
 				B549F51A22AF19B0007D816B /* protocols.swift in Sources */,
-				B59176DE22B2F6F400F8F230 /* CountDefaultService.swift in Sources */,
 				B53216602260047A00DADF80 /* PatterListDefaultInteractor.swift in Sources */,
 				B5DC228922610B1200929BD7 /* PatterInteractorToPresenterProtocol.swift in Sources */,
 				B5DC22852261069E00929BD7 /* PatterDefaultPresenter.swift in Sources */,
